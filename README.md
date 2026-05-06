@@ -7,12 +7,7 @@
 
 ## About me
 
-I build clean, practical web projects with attention to detail, performance, and user experience.
-
-- Frontend / full-stack developer
-- Interested in React, TypeScript, UI systems, and product engineering
-- I like turning ideas into simple, usable products
-- Currently improving my engineering workflow and building personal projects
+I am a student of Moscow BMSTU, engaged in programming 6 years, I develop modern websites and also always explore new and interesting development tools.
 
 ## Tech stack
 
