@@ -1,6 +1,7 @@
 <h1>
-  <img src="https://st3.depositphotos.com/1021974/19032/i/450/depositphotos_190324114-stock-illustration-illustration-orange-emoticon-smile-headphones.jpg" width="40"/>
   Hi, I'm Mark
+  <img src="https://st3.depositphotos.com/1021974/19032/i/450/depositphotos_190324114-stock-illustration-illustration-orange-emoticon-smile-headphones.jpg" width="40"/>
+
 </h1>
 
 I build clean, practical web projects with attention to detail, performance, and user experience.
