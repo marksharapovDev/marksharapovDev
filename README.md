@@ -3,14 +3,6 @@
   <img src="https://st3.depositphotos.com/1021974/19032/i/450/depositphotos_190324114-stock-illustration-illustration-orange-emoticon-smile-headphones.jpg" width="42"/>
 </h1>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+TypeScript+%2F+Vite;Building+clean+and+useful+web+products;Build.+Refine.+Ship." />
-</p>
-
 ---
 
 ## About me
