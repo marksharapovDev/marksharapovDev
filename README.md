@@ -35,7 +35,7 @@ Product thinking
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=marksharapovDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=marksharapovDev&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img
