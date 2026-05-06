@@ -34,15 +34,17 @@ Product thinking
 
 <p align="center">
   <img
+    align="center"
     height="165"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=marksharapovDev&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img
+    align="center"
     height="165"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marksharapovDev&layout=compact&theme=tokyonight&hide_border=true"
   />
-</p>****
+</p>
 
 ## Contacts
 
