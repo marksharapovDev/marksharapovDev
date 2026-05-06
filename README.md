@@ -1,6 +1,5 @@
 <h1>
   Hi, I'm Mark
-  <img src="https://st3.depositphotos.com/1021974/19032/i/450/depositphotos_190324114-stock-illustration-illustration-orange-emoticon-smile-headphones.jpg" width="42"/>
  
 </h1>
 
