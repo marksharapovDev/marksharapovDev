@@ -5,7 +5,7 @@
 
 <a href="https://marksharapov.com/cv">
 
-  <img src="./preview.jpg" width="100%" />
+  <img src="./preview.png" width="100%" />
 
 </a>
 
