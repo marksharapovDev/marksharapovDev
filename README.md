@@ -22,16 +22,6 @@ I am a student of Moscow BMSTU, engaged in programming 6 years, I develop modern
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
 </p>
 
-## Focus
-
-```txt
-Frontend architecture
-Reusable components
-Responsive interfaces
-Clean code
-Product thinking
-```
-
 ## Activity
 
 <p align="center">
