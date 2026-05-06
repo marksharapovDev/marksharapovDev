@@ -3,6 +3,16 @@
   <img src="https://st3.depositphotos.com/1021974/19032/i/450/depositphotos_190324114-stock-illustration-illustration-orange-emoticon-smile-headphones.jpg" width="42"/>
 </h1>
 
+<p align="center">
+
+  <a href="https://marksharapov.com">
+
+    <img src="https://img.shields.io/badge/Portfolio-marksharapov.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+  </a>
+
+</p>
+
 ---
 
 ## About me
@@ -28,18 +38,6 @@ I am a student of Moscow BMSTU, engaged in programming 6 years, I develop modern
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-## Contacts
-
-<p>
-  <a href="https://t.me/marksharapov">
-    <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://marksharapov.com">
-    <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=googlechrome" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>Build. Refine. Ship.</i>
