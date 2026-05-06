@@ -3,15 +3,11 @@
   <img src="https://st3.depositphotos.com/1021974/19032/i/450/depositphotos_190324114-stock-illustration-illustration-orange-emoticon-smile-headphones.jpg" width="42"/>
 </h1>
 
-<p align="center">
+<a href="https://marksharapov.com/cv">
 
-  <a href="https://marksharapov.com">
+  <img src="./preview.jpg" width="100%" />
 
-    <img src="https://img.shields.io/badge/marksharapov.com/cv-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-
-  </a>
-
-</p>
+</a>
 
 ---
 
