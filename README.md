@@ -32,9 +32,16 @@ Product thinking
 
 ## GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marksharapovDev&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksharapovDev&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=marksharapov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksharapov&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ## Contacts
