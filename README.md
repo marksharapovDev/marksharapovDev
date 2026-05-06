@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+TypeScript+%2F+Vite;Building+clean+and+useful+web+products;Build.+Refine.+Ship." />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ## About me
@@ -36,13 +36,6 @@ I build clean, practical web projects with attention to detail, performance, and
   <img src="https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite" />
   <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
-</p>
-
-
-## Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ## Contacts
