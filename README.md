@@ -7,7 +7,7 @@
 
   <a href="https://marksharapov.com">
 
-    <img src="https://img.shields.io/badge/Portfolio-marksharapov.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/marksharapov.com/cv-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
   </a>
 
