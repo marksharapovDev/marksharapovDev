@@ -32,21 +32,14 @@ Product thinking
 
 ## GitHub stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=marksharapovDev&show_icons=true&theme=tokyonight&hide_border=true"
-      />
-    </td>
+## GitHub stats
 
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marksharapovDev&layout=compact&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marksharapovDev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marksharapovDev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Contacts
 
